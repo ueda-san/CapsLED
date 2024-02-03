@@ -9,6 +9,11 @@ IMEの状態を CapsLock LED で表示します。
 (無効化していなくても使えますが CapsLock で LED 状態が上書きされたら一度 IME を on/off すれば直ります)
 
 
+
+https://github.com/ueda-san/CapsLED/assets/70194698/bee29cb1-6691-466b-af41-177384206ace
+
+
+
 ## 使い方
 
 Release ページからダウンロードしてください。 Windows 起動時に実行したい場合はショートカットをスタートアップ (Win+R → shell:startup) に登録してください。
